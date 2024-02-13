@@ -16,8 +16,6 @@
   🖤 currently studying **Docker**, and **improving on MongoDB**.
 
   Ask me about **Ruby on Rails**, **JS**, **GIT/GITHUB**, **PostgreSQL... or anything u want [here](https://github.com/wasdevv/wasdevv/issues)**
-
-
 </div>
 
 <div align="center">
@@ -29,5 +27,16 @@
   </a>
   <a href="https://rubyshop-hy0g.onrender.com">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logoColor=white" target="_blank" />
+  </a>
+</div>
+
+<hr/>
+
+<h2 align="center">📡 Languages | FrameWorks | Tools </h2>
+<br/>
+<div align="center"
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=rails,ruby,js,docker,git,github"> <br/>
+    <img src="https://skillicons.dev/icons?i=html,css,jquery,postgres,mongodb,aws" />
   </a>
 </div>
