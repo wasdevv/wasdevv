@@ -40,3 +40,6 @@
     <img src="https://skillicons.dev/icons?i=html,css,jquery,postgres,mongodb,aws" />
   </a>
 </div>
+
+<br/>
+<hr/>
