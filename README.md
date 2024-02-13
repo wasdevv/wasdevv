@@ -6,7 +6,7 @@
   </a>
 </h1>
 
-<h2 align="center">Ruby on Rails Web XPTO|Software developer from Brazil 🇧🇷!</h2>
+<h2 align="center">Ruby on Rails Web XPTO | Software developer from Brazil 🇧🇷!</h2>
 
 <br/>
 
