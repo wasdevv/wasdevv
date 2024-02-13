@@ -11,7 +11,7 @@
 <br/>
 
 <div align="center">
-  💸 currently doing an **ecommerce** on **Rails 7**.
+  💸 currently doing an ecommerce on Rails 7.
   
   🖤 currently studying **Docker**, and **improving on MongoDB**.
 
