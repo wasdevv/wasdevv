@@ -1,1 +1,1 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id-wasdevv.wasdevv" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=wasdevv.wasdevv" />
