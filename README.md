@@ -43,10 +43,3 @@
 
 <br/>
 <hr/>
-
-<div align="center">
-  <h2> My Contribuations </h2>
-  <br>
-  <img src="snake eating my contribuations" src="https://raw.githubusercontent.com/wasdevv/wasdevv/output/github-contribuation-grid-snake svg" />
-  <br/><br/><br/>
-</div>
